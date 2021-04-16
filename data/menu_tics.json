@@ -1,0 +1,25 @@
+{
+    "nombreApp" : "Folleto",
+    "rutas" : [
+        {
+            "ruta": "desarrollo",
+            "icon": "code",
+            "texto":"Desarrollo de Software"
+        },
+        {
+            "ruta": "redes",
+            "icon": "settings_input_antenna",
+            "texto":"Redes Digitales"
+        },
+        {
+            "ruta": "digital",
+            "icon": "create",
+            "texto":"Diseño Digital"
+        },
+        {
+            "ruta": "virtual",
+            "icon": "weekend",
+            "texto":"Entornos Virtuales"
+        }
+    ]
+}

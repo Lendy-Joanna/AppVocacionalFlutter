@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Folleto",
+    "rutas" : [ 
+        {
+            "ruta": "admin",
+            "icon": "assignment",
+            "texto":"Administración"
+        },
+        {
+            "ruta": "merca",
+            "icon": "dvr",
+            "texto":"Mercadotecnia"
+        },
+        {
+            "ruta": "conta",
+            "icon": "table_view",
+            "texto":"Contaduria"
+        }
+    ]
+}

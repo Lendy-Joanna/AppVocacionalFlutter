@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Folleto",
+    "rutas" : [
+        {
+            "ruta": "meca",
+            "icon": "memory",
+            "texto":"Mecatronica" 
+        },
+        {
+            "ruta": "procesos",
+            "icon": "location_city",
+            "texto":"Procesos Industriales"
+        },
+        {
+            "ruta": "energia",
+            "icon": "filter_vintage",
+            "texto":"Energias Renovables"
+        }
+    ]
+}

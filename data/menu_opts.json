@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Folleto",
+    "rutas" : [
+        {
+            "ruta": "ea",
+            "icon": "work",
+            "texto":"EA"
+        },
+        {
+            "ruta": "tics",
+            "icon": "integration_instructions",
+            "texto":"TIC's"
+        },
+        {
+            "ruta": "iee",
+            "icon": "batch_prediction",
+            "texto":"IEE"
+        }
+    ]
+}
